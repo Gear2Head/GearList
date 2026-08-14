@@ -1,0 +1,6 @@
+{
+  "name": "GearList",
+  "description": "Tüm anime, dizi, film ve müzik seyirlerinizi tek çatı altında toplayan, detaylı süre hesaplayıcılı, başarım ve profil paylaşım platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
